@@ -4,7 +4,7 @@
 
 CS undergrad from Ahmedabad (graduating 2027). I like building things end to end, solving puzzles and making math move.
 
-That sunflower up there is 700 dots, each one turned 137.5° from the last. Change that one number even slightly and the whole pattern falls apart. I spent summer 2026 at IIT Gandhinagar's Centre for Creative Learning turning ideas like this into animations for 50,000+ students. ([15 lines of Python](sunflower.py) if you want to play with it.)
+That sunflower up there is 700 dots, each one turned 137.5° from the last. Change that one number even slightly and the whole pattern falls apart. I spent summer 2026 at IIT Gandhinagar's Centre for Creative Learning turning ideas like this into animations for 50,000+ students. ([14 lines of Python](sunflower.py) if you want to play with it.)
 
 ## Things I've built lately
 - [face3d](https://github.com/CjSidharth/face3d) - one photo of a face in, a 3D-printable bust out. Runs on my MacBook, no CUDA needed.
