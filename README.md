@@ -11,7 +11,7 @@ That sunflower up there is 700 dots, each one turned 137.5° from the last. Chan
 - [smart-glasses](https://github.com/CjSidharth/smart-glasses) - a webcam that says *"Chair ahead"* out loud. Made for visually impaired people, works fully offline.
 - [assignment-dictator](https://github.com/CjSidharth/assignment-dictator) - turns photos of handwritten notes into dictation audio so I can copy them by hand. Fully local, fully free.
 - [ambi-trainer](https://github.com/CjSidharth/ambi-trainer) - train your other hand to write. Or both at once.
-- **GroundTruth** - my exam prep app. You attempt the answer first, then the AI checks it against your own notes, with page numbers. Got me through 6,748 questions across 19 subjects. *(private for now)*
+- [GroundTruth](https://github.com/CjSidharth/groundtruth) - my exam prep app. You attempt the answer first, then the AI checks it against your own notes, with page numbers. Got me through 6,748 questions across 19 subjects.
 - **Sentinel** - CCTV analytics for the Gujarat Police hackathon with two friends. Reads number plates and finds a person across recordings from one photo. *(team repo, private)*
 
 ## Other stuff
