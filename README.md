@@ -12,7 +12,8 @@ That sunflower up there is 700 dots, each one turned 137.5° from the last. Chan
 - [assignment-dictator](https://github.com/CjSidharth/assignment-dictator) - turns photos of handwritten notes into dictation audio so I can copy them by hand. Fully local, fully free.
 - [ambi-trainer](https://github.com/CjSidharth/ambi-trainer) - train your other hand to write. Or both at once.
 - [GroundTruth](https://github.com/CjSidharth/groundtruth) - my exam prep app. You attempt the answer first, then the AI checks it against your own notes, with page numbers. It holds 6,748 questions across 19 subjects and got me through a whole exam cycle.
-- **Sentinel** - CCTV analytics for the Gujarat Police hackathon with two friends. Reads number plates and finds a person across recordings from one photo. *(team repo, private)*
+- [FlipNote](https://flipnote.in) - PDFs in, flashcards, mind maps and explainer videos out. Built with 4 friends; I did the 3D simulations, Manim videos and Docker deploy.
+- **Sentinel** - CCTV analytics for the Gujarat Police hackathon with two friends. Reads number plates and finds a person across recordings from one photo. [Demo video](https://youtu.be/RsuzQ23YuZs). *(team repo, private)*
 
 ## Other stuff
 - 137 AtCoder contests and counting, all in [problem-practice](https://github.com/CjSidharth/problem-practice).
